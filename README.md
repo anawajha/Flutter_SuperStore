@@ -3,7 +3,9 @@
 Flutter Online store application
 
 
-I used API via http and the application contains:
+I used API by http
+
+The application contains:
 
 Login
 
